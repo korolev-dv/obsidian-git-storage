@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1b3b4d24b0fd2b",
+        "id": "b3a2b85ba91e5cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "d47bca124ed39f27",
+            "id": "c388d7e4ddba2102",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Основы работы с Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a388cac498d5912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Основы работы с Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_Основы работы с Obsidian.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,21 +137,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a388cac498d5912",
+  "active": "c388d7e4ddba2102",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "_Основы работы с Obsidian.md",
-    "Регистрация компоненты comcntrl.dll для работы com-соединения в 1С.md",
-    "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
+    "1С разработка.md",
     "Доработка типовых печатных форм конфигурации на СКД.md",
+    "Отладка запросов.md",
+    "Поддерживаемые схемы МДЛП в 1С Аптека.md",
+    "Регистрация компоненты comcntrl.dll для работы com-соединения в 1С.md",
+    "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
+    "Сериализация.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
+    "IT.md",
     "XDTO-сериализация.md",
     "XML-сериализация.md",
+    "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
+    "_Основы работы с Obsidian.md",
+    "Архипенный.md",
+    "Архипенный,  Инструкции.md",
     "Стейкинг.md",
-    "Сериализация.md",
-    "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
-    "Поддерживаемые схемы МДЛП в 1С Аптека.md",
-    "Отладка запросов.md",
+    "conflict-files-obsidian-git.md",
     "ссылка.md",
     "files",
     "files/редактирование_номенклатуры_кураторами.png",
