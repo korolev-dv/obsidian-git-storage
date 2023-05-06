@@ -22,9 +22,4 @@
 
 список вариантов коллаутов в мануале [Список коллаутов](https://help.obsidian.md/Editing+and+formatting/Callouts)
 
-<<<<<<< HEAD
-ыы
-=======
-связывание заметок
-
->>>>>>> origin/main
+связывание
