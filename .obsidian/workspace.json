@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a2eb20aa2ffc929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Основы работы с Obsidian.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d47bca124ed39f27",
+  "active": "7a2eb20aa2ffc929",
   "lastOpenFiles": [
+    "_Основы работы с Obsidian.md",
+    "conflict-files-obsidian-git.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
     "XDTO-сериализация.md",
     "XML-сериализация.md",
@@ -159,7 +174,6 @@
     "Отладка запросов.md",
     "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
     "Доработка типовых печатных форм конфигурации на СКД.md",
-    "_Основы работы с Obsidian.md",
     "ссылка.md",
     "files",
     "files/редактирование_номенклатуры_кураторами.png",
