@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сериализация.md",
+                "file": "_Основы работы с Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сериализация.md",
+                "file": "_Основы работы с Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сериализация.md",
+                "file": "_Основы работы с Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сериализация.md"
+                "file": "_Основы работы с Obsidian.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "c669a2c2ee58fec1",
   "lastOpenFiles": [
-    "_Основы работы с Obsidian.md",
     "1С.md",
+    "Сериализация.md",
+    "daly",
+    "templates",
+    "_Основы работы с Obsidian.md",
     "Администрирование.md",
     "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
@@ -159,7 +162,6 @@
     "JavaScript.md",
     "IT.md",
     "Стейкинг.md",
-    "Сериализация.md",
     "Регистрация компоненты comcntrl.dll для работы com-соединения в 1С.md",
     "Поддерживаемые схемы МДЛП в 1С Аптека.md",
     "Программирование.md",
