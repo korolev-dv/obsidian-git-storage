@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f220bf8186708d6",
+        "id": "f770bce2cb63df3b",
         "type": "tabs",
         "children": [
           {
-            "id": "0b68970b9f9338c8",
+            "id": "fa3a6b16f6bed44c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,16 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95740ecda5bea7e9",
+  "active": "fa3a6b16f6bed44c",
   "lastOpenFiles": [
-    "XDTO-сериализация в 1С.md",
-    "Untitled.canvas",
+    "daly/07-05-2023.md",
+    "daly/08-05-2023.md",
+    "templates/Daly note.md",
     "Дача.md",
+    "Untitled.canvas",
+    "XDTO-сериализация в 1С.md",
     "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
     "Постройка беседки.md",
     "Стройка.md",
-    "daly/07-05-2023.md",
-    "templates/Daly note.md",
     "_Основы работы с Obsidian.md",
     "1С.md",
     "Сериализация.md",
