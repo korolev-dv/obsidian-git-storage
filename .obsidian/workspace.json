@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc2ac69b5a5ec38",
+        "id": "1f220bf8186708d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c669a2c2ee58fec1",
+            "id": "0b68970b9f9338c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daly/07-05-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/07-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/07-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daly/07-05-2023.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c669a2c2ee58fec1",
+  "active": "95740ecda5bea7e9",
   "lastOpenFiles": [
-    "templates/Daly note.md",
+    "XDTO-сериализация в 1С.md",
+    "Untitled.canvas",
+    "Дача.md",
+    "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
+    "Постройка беседки.md",
+    "Стройка.md",
     "daly/07-05-2023.md",
+    "templates/Daly note.md",
     "_Основы работы с Obsidian.md",
     "1С.md",
     "Сериализация.md",
@@ -159,7 +156,6 @@
     "Администрирование.md",
     "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
-    "XDTO-сериализация в 1С.md",
     "XML-сериализация в 1С.md",
     "JavaScript.md",
     "IT.md",
@@ -171,13 +167,8 @@
     "Инструкции.md",
     "Архипенный.md",
     "Доработка типовых печатных форм конфигурации на СКД.md",
-    "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
     "Отладка запросов.md",
-    "Архипенный,  Инструкции.md",
-    "conflict-files-obsidian-git.md",
-    "ссылка.md",
     "files",
-    "files/редактирование_номенклатуры_кураторами.png",
-    "README.md"
+    "files/редактирование_номенклатуры_кураторами.png"
   ]
 }
