@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
+                "file": "daly/07-05-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
+                "file": "daly/07-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Основы работы с Obsidian.md",
+                "file": "daly/07-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Основы работы с Obsidian.md"
+                "file": "daly/07-05-2023.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "c669a2c2ee58fec1",
   "lastOpenFiles": [
+    "templates/Daly note.md",
+    "daly/07-05-2023.md",
+    "_Основы работы с Obsidian.md",
     "1С.md",
     "Сериализация.md",
     "daly",
     "templates",
-    "_Основы работы с Obsidian.md",
     "Администрирование.md",
     "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
@@ -176,7 +178,6 @@
     "ссылка.md",
     "files",
     "files/редактирование_номенклатуры_кураторами.png",
-    "README.md",
-    "Снимок.png.md"
+    "README.md"
   ]
 }
