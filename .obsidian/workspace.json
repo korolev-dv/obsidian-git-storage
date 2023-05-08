@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa3a6b16f6bed44c",
+            "id": "332b6444795480ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daly/09-05-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daly/09-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daly/09-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daly/09-05-2023.md"
+              }
             }
           }
         ]
@@ -138,11 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa3a6b16f6bed44c",
+  "active": "332b6444795480ee",
   "lastOpenFiles": [
-    "daly/07-05-2023.md",
     "daly/08-05-2023.md",
+    "daly/07-05-2023.md",
+    "daly/09-05-2023.md",
+    "Untitled.md",
+    "files/редактирование_номенклатуры_кураторами.png",
     "templates/Daly note.md",
+    "Регистрация в честном знаке.md",
+    "Честный знак.md",
     "Дача.md",
     "Untitled.canvas",
     "XDTO-сериализация в 1С.md",
@@ -164,12 +178,6 @@
     "Регистрация компоненты comcntrl.dll для работы com-соединения в 1С.md",
     "Поддерживаемые схемы МДЛП в 1С Аптека.md",
     "Программирование.md",
-    "Описание.md",
-    "Инструкции.md",
-    "Архипенный.md",
-    "Доработка типовых печатных форм конфигурации на СКД.md",
-    "Отладка запросов.md",
-    "files",
-    "files/редактирование_номенклатуры_кураторами.png"
+    "files"
   ]
 }
