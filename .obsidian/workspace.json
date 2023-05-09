@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/09-05-2023.md",
+                "file": "Отчет по выручкам сети из разных баз 1С Розница.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/09-05-2023.md",
+                "file": "Отчет по выручкам сети из разных баз 1С Розница.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/09-05-2023.md",
+                "file": "Отчет по выручкам сети из разных баз 1С Розница.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daly/09-05-2023.md"
+                "file": "Отчет по выручкам сети из разных баз 1С Розница.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "332b6444795480ee",
   "lastOpenFiles": [
-    "Отчет по выручкам сети из разных баз 1С Розница.md",
     "daly/09-05-2023.md",
     "daly/08-05-2023.md",
     "daly/07-05-2023.md",
+    "Отчет по выручкам сети из разных баз 1С Розница.md",
     "Untitled.md",
     "files/редактирование_номенклатуры_кураторами.png",
     "templates/Daly note.md",
