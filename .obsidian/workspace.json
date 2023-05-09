@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/09-05-2023.md",
+                "file": "Постройка беседки.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/09-05-2023.md",
+                "file": "Постройка беседки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/09-05-2023.md",
+                "file": "Постройка беседки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daly/09-05-2023.md"
+                "file": "Постройка беседки.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "332b6444795480ee",
   "lastOpenFiles": [
+    "files/Беседка.skp",
+    "Стройка.md",
+    "Дача.md",
+    "daly/09-05-2023.md",
     "daly/08-05-2023.md",
     "Честный знак.md",
-    "daly/09-05-2023.md",
     "daly/07-05-2023.md",
     "Архипенный.md",
     "Формирование отчета о сводных продажах сети Архипенный.md",
@@ -168,12 +171,10 @@
     "Untitled.md",
     "templates/Daly note.md",
     "Регистрация в честном знаке.md",
-    "Дача.md",
     "Untitled.canvas",
     "XDTO-сериализация в 1С.md",
     "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
     "Постройка беседки.md",
-    "Стройка.md",
     "_Основы работы с Obsidian.md",
     "1С.md",
     "Сериализация.md",
@@ -182,7 +183,6 @@
     "Администрирование.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
     "XML-сериализация в 1С.md",
-    "JavaScript.md",
     "files"
   ]
 }
