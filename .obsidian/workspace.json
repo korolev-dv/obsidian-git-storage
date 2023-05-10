@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f770bce2cb63df3b",
+        "id": "14c28f878c6b08da",
         "type": "tabs",
         "children": [
           {
-            "id": "332b6444795480ee",
+            "id": "0e21bffb890cd925",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Постройка беседки.md",
+                "file": "daly/10-05-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Постройка беседки.md",
+                "file": "daly/10-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Постройка беседки.md",
+                "file": "daly/10-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Постройка беседки.md"
+                "file": "daly/10-05-2023.md"
               }
             }
           }
@@ -147,14 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "332b6444795480ee",
+  "active": "0e21bffb890cd925",
   "lastOpenFiles": [
+    "Честный знак.md",
+    "daly/10-05-2023.md",
+    "daly/09-05-2023.md",
+    "templates/Daly note.md",
+    "daly/08-05-2023.md",
+    "Постройка беседки.md",
     "files/Беседка.skp",
     "Стройка.md",
     "Дача.md",
-    "daly/09-05-2023.md",
-    "daly/08-05-2023.md",
-    "Честный знак.md",
     "daly/07-05-2023.md",
     "Архипенный.md",
     "Формирование отчета о сводных продажах сети Архипенный.md",
@@ -169,12 +172,10 @@
     "files/редактирование_номенклатуры_кураторами.png",
     "files/API.cfe",
     "Untitled.md",
-    "templates/Daly note.md",
     "Регистрация в честном знаке.md",
     "Untitled.canvas",
     "XDTO-сериализация в 1С.md",
     "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
-    "Постройка беседки.md",
     "_Основы работы с Obsidian.md",
     "1С.md",
     "Сериализация.md",
