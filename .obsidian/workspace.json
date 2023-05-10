@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/10-05-2023.md",
+                "file": "Постройка беседки.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/10-05-2023.md",
+                "file": "Постройка беседки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/10-05-2023.md",
+                "file": "Постройка беседки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daly/10-05-2023.md"
+                "file": "Постройка беседки.md"
               }
             }
           }
@@ -149,19 +149,20 @@
   },
   "active": "0e21bffb890cd925",
   "lastOpenFiles": [
-    "Честный знак.md",
-    "daly/10-05-2023.md",
-    "daly/09-05-2023.md",
-    "templates/Daly note.md",
-    "daly/08-05-2023.md",
-    "Постройка беседки.md",
-    "files/Беседка.skp",
     "Стройка.md",
     "Дача.md",
+    "Доработка типовых печатных форм конфигурации на СКД.md",
+    "Отчет по выручкам сети из разных баз 1С Розница.md",
+    "daly/09-05-2023.md",
+    "daly/10-05-2023.md",
     "daly/07-05-2023.md",
+    "daly/08-05-2023.md",
+    "Честный знак.md",
+    "templates/Daly note.md",
+    "Постройка беседки.md",
+    "files/Беседка.skp",
     "Архипенный.md",
     "Формирование отчета о сводных продажах сети Архипенный.md",
-    "Отчет по выручкам сети из разных баз 1С Розница.md",
     "files/ОтчетПоВыручкамМагазиновСети.png",
     "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
     "Инструкции.md",
@@ -183,7 +184,6 @@
     "templates",
     "Администрирование.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
-    "XML-сериализация в 1С.md",
     "files"
   ]
 }
