@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/11-05-2023.md",
+                "file": "daly/12-05-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/11-05-2023.md",
+                "file": "daly/12-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/11-05-2023.md",
+                "file": "daly/12-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daly/11-05-2023.md"
+                "file": "daly/12-05-2023.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "325c8c4129f2e4bd",
   "lastOpenFiles": [
+    "daly/11-05-2023.md",
+    "daly/12-05-2023.md",
     "квитанции с QR для Сбер школа 7 Новодинск.md",
     "files/КвитанцияQR_НордИС_Школа7.cfe",
-    "daly/11-05-2023.md",
     "templates/Daly note.md",
     "daly/10-05-2023.md",
     "Доработка типовых печатных форм конфигурации на СКД.md",
