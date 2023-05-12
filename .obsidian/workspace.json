@@ -139,22 +139,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "325c8c4129f2e4bd",
   "lastOpenFiles": [
     "daly/11-05-2023.md",
     "daly/12-05-2023.md",
+    "daly/09-05-2023.md",
+    "daly/10-05-2023.md",
     "квитанции с QR для Сбер школа 7 Новодинск.md",
     "files/КвитанцияQR_НордИС_Школа7.cfe",
     "templates/Daly note.md",
-    "daly/10-05-2023.md",
     "Доработка типовых печатных форм конфигурации на СКД.md",
     "1С.md",
     "IT.md",
@@ -163,7 +164,6 @@
     "Стройка.md",
     "Дача.md",
     "Отчет по выручкам сети из разных баз 1С Розница.md",
-    "daly/09-05-2023.md",
     "daly/07-05-2023.md",
     "daly/08-05-2023.md",
     "Честный знак.md",
