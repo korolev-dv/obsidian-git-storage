@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/15-05-2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985132500735748e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "покупка товаров из 3х сегментов.md",
+                "file": "daly/16-05-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "покупка товаров из 3х сегментов.md",
+                "file": "daly/16-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "покупка товаров из 3х сегментов.md",
+                "file": "daly/16-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "покупка товаров из 3х сегментов.md"
+                "file": "daly/16-05-2023.md"
               }
             }
           }
@@ -161,14 +147,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "985132500735748e",
+  "active": "325c8c4129f2e4bd",
   "lastOpenFiles": [
-    "files/УсловиеСкидкиВхождениеВТриСегмента.epf",
     "daly/15-05-2023.md",
-    "покупка товаров из 3х сегментов.md",
+    "daly/16-05-2023.md",
+    "daly/10-05-2023.md",
     "daly/11-05-2023.md",
     "daly/12-05-2023.md",
-    "daly/10-05-2023.md",
+    "покупка товаров из 3х сегментов.md",
+    "files/УсловиеСкидкиВхождениеВТриСегмента.epf",
     "daly/09-05-2023.md",
     "квитанции с QR для Сбер школа 7 Новодинск.md",
     "files/КвитанцияQR_НордИС_Школа7.cfe",
