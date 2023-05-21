@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "14c28f878c6b08da",
+        "id": "fe75833cdc3744c8",
         "type": "tabs",
         "children": [
           {
-            "id": "325c8c4129f2e4bd",
+            "id": "768bfdec981ad5d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/16-05-2023.md",
+                "file": "Архипенный.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a39b6e7eef2dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ресурсы по алгоритмам.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/16-05-2023.md",
+                "file": "Ресурсы по алгоритмам.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/16-05-2023.md",
+                "file": "Ресурсы по алгоритмам.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daly/16-05-2023.md"
+                "file": "Ресурсы по алгоритмам.md"
               }
             }
           }
@@ -147,10 +161,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "325c8c4129f2e4bd",
+  "active": "40a39b6e7eef2dfc",
   "lastOpenFiles": [
-    "daly/15-05-2023.md",
+    "Архипенный.md",
+    "Ресурсы по алгоритмам.md",
+    "daly/21-05-2023.md",
+    "daly/19-05-2023.md",
     "daly/16-05-2023.md",
+    "daly/07-05-2023.md",
+    "daly/08-05-2023.md",
+    "daly/15-05-2023.md",
     "daly/12-05-2023.md",
     "daly/11-05-2023.md",
     "daly/10-05-2023.md",
@@ -168,17 +188,11 @@
     "Стройка.md",
     "Дача.md",
     "Отчет по выручкам сети из разных баз 1С Розница.md",
-    "daly/07-05-2023.md",
-    "daly/08-05-2023.md",
     "Честный знак.md",
     "files/Беседка.skp",
-    "Архипенный.md",
     "Формирование отчета о сводных продажах сети Архипенный.md",
     "files/ОтчетПоВыручкамМагазиновСети.png",
     "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
-    "Инструкции.md",
-    "Поддерживаемые схемы МДЛП в 1С Аптека.md",
-    "Описание.md",
     "files/ПенныйДопОтчеты_СводныйОтчетПоВыручкамМагазиновСети.erf",
     "files/ПенныйДопОтчеты_СводныйОтчетПоВыручкамМагазиновСети 1.erf",
     "files/редактирование_номенклатуры_кураторами.png",
