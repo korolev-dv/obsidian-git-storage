@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ресурсы по алгоритмам.md",
+                "file": "daly/22-05-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ресурсы по алгоритмам.md",
+                "file": "daly/22-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ресурсы по алгоритмам.md",
+                "file": "daly/22-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ресурсы по алгоритмам.md"
+                "file": "daly/22-05-2023.md"
               }
             }
           }
@@ -163,8 +163,9 @@
   },
   "active": "40a39b6e7eef2dfc",
   "lastOpenFiles": [
-    "Архипенный.md",
     "Ресурсы по алгоритмам.md",
+    "daly/22-05-2023.md",
+    "Архипенный.md",
     "daly/21-05-2023.md",
     "daly/19-05-2023.md",
     "daly/16-05-2023.md",
@@ -192,7 +193,6 @@
     "files/Беседка.skp",
     "Формирование отчета о сводных продажах сети Архипенный.md",
     "files/ОтчетПоВыручкамМагазиновСети.png",
-    "Редактирование номенклатуры кураторами в базах 1С Розница франчайзи.md",
     "files/ПенныйДопОтчеты_СводныйОтчетПоВыручкамМагазиновСети.erf",
     "files/ПенныйДопОтчеты_СводныйОтчетПоВыручкамМагазиновСети 1.erf",
     "files/редактирование_номенклатуры_кураторами.png",
