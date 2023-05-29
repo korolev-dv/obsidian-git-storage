@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daly/25-05-2023.md",
+                "file": "daly/23-05-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7632deebb31ef510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daly/29-05-2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daly/25-05-2023.md",
+                "file": "daly/29-05-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daly/25-05-2023.md",
+                "file": "daly/29-05-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daly/25-05-2023.md"
+                "file": "daly/29-05-2023.md"
               }
             }
           }
@@ -147,28 +161,33 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0bd7e8c7b15bf885",
+  "active": "7632deebb31ef510",
   "lastOpenFiles": [
-    "Без названия.canvas",
-    "daly/25-05-2023.md",
-    "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
-    "daly/24-05-2023.md",
-    "Архипенный.md",
     "daly/23-05-2023.md",
-    "daly/16-05-2023.md",
-    "daly/15-05-2023.md",
-    "daly/12-05-2023.md",
-    "daly/19-05-2023.md",
-    "daly/21-05-2023.md",
     "daly/22-05-2023.md",
+    "daly/24-05-2023.md",
+    "daly/25-05-2023.md",
+    "daly/29-05-2023.md",
+    "Прочие доходы и расходы в кассовых документах.md",
+    "files/Настройка формы.png",
+    "files/Изменить форму.png",
+    "files/ВыдачаНалиных.png",
+    "daly/21-05-2023.md",
+    "daly/19-05-2023.md",
+    "daly/16-05-2023.md",
+    "daly/12-05-2023.md",
+    "daly/10-05-2023.md",
+    "daly/11-05-2023.md",
+    "daly/15-05-2023.md",
+    "Без названия.canvas",
+    "Открытие и передача файла с клиента на сервер в асинхронном режиме..md",
+    "Архипенный.md",
     "XDTO-сериализация в 1С.md",
     "XML-сериализация в 1С.md",
     "Чтение и запись XML средствами 1С Предприятие 8.md",
     "daly/07-05-2023.md",
     "daly/08-05-2023.md",
     "daly/09-05-2023.md",
-    "daly/10-05-2023.md",
-    "daly/11-05-2023.md",
     "Ресурсы по алгоритмам.md",
     "покупка товаров из 3х сегментов.md",
     "files/УсловиеСкидкиВхождениеВТриСегмента.epf",
@@ -176,7 +195,6 @@
     "files/КвитанцияQR_НордИС_Школа7.cfe",
     "templates/Daly note.md",
     "Доработка типовых печатных форм конфигурации на СКД.md",
-    "1С.md",
     "files/Беседка.skp",
     "files/ОтчетПоВыручкамМагазиновСети.png",
     "files/ПенныйДопОтчеты_СводныйОтчетПоВыручкамМагазиновСети.erf",
